@@ -10,3 +10,10 @@ donneesMondiales:
   paysTouches: 8 # Chine, Thaïlande, Singapour, Japon, République de Corée, Vietnam, Taïwan et Etats-Unis
   casConfirmes: 897
   deces: 26
+donneesRegionales:
+  - nom: Nouvelle-Aquitaine
+    code: REG-75
+    casConfirmes: 1 #Bordeaux
+  - nom: Ile-de-France
+    code: REG-11
+    casConfirmes: 2
